@@ -1,0 +1,5 @@
+.idea/
+.venv/
+build/
+*.iml
+src/avili_test_results.egg-info/
